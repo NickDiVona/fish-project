@@ -18,5 +18,10 @@ export const FISHLIST = [
     name: 'guppy',
     color: 'yellow',
     size: 'extra small'
+  },
+  {
+    name: 'koifish',
+    color: 'orange/white',
+    size: 'medium'
   }
 ];
